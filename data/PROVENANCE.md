@@ -15,7 +15,7 @@ the first dataset in this portfolio with genuine outcome labels.
   defaulter as good costs 5, the reverse costs 1. The eval harness uses
   exactly these costs rather than inventing its own.
 
-Honesty notes: the data is ~50 years old and 1,000 rows; nothing here
+The data is ~50 years old and 1,000 rows; nothing here
 claims production-grade credit modeling. It is real-outcome substrate
 for evaluating a scoring system, which is this repo's actual subject.
 The `personal_status_sex`, `age`, and `foreign_worker` columns exist in
