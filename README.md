@@ -91,4 +91,3 @@ not a production credit model. Details and caveats:
 
 ---
 
-Built with agent assistance; architecture, review, and decisions mine. — Alpha Nyarera
